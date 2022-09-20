@@ -1,4 +1,5 @@
-### Hi there 👋 , <> I am Harmaton and I am a Software Developer </> 
+### Hi there ! 👋 , Thank you for coming by ...  <h3>My name is Harmaton</h3> 
+<h2>AND I WRITE COOL CODE</h2> 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harmaton&show_icons=true&theme=dracula)
