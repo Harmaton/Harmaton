@@ -1,5 +1,4 @@
-### Hi there ! 👋 , Thank you for coming by ...  <h3>My name is Harmaton</h3> 
-<h2>AND I WRITE CODE</h2> 
+### Hi there ! 👋 , Thank you for coming by ... 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harmaton&show_icons=true&theme=dracula)
