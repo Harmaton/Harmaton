@@ -1,10 +1,12 @@
-### Hi there ! 👋 , Thank you for coming by ... 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harmaton&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harmaton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://<HEROKU_INSTANCE_NAME>.herokuapp.com/api/spotify/now?theme=vue-dark" />
 
 
 
