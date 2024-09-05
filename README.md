@@ -8,7 +8,7 @@
 <a href="https://medium.com/@njagiiharmaton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@njagiiharmaton" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harmaton&show_icons=true&locale=en" alt="harmaton" /></p>
+
 
 
 
