@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harmaton Njagi , I build awesome AI and Fullstack Solutions </h1>
+<h1 align="center">Hi 👋, I'm Harmaton Njagi , I build awesome Data, AI and Fullstack Solutions </h1>
 <p align="left"> <a href="https://twitter.com/njagiiiiii" target="blank"><img src="https://img.shields.io/twitter/follow/njagiiiiii?logo=twitter&style=for-the-badge" alt="njagiiiiii" /></a> </p>
 
 
