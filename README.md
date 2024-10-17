@@ -12,24 +12,6 @@
 
 I'm a passionate technologist specializing in building innovative solutions at the intersection of Data Science, Artificial Intelligence, and Full Stack Development. My goal is to leverage cutting-edge technologies to solve complex problems and create impactful applications.
 
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** Python, JavaScript, TypeScript, Kotlin
-- **AI/ML:** TensorFlow, PyTorch, scikit-learn
-- **Data:** SQL, Pandas, NumPy, Airbyte
-- **Web Dev:** NextJs
-- **Cloud:** AWS, Google Cloud Platform
-- **Tools:** Git, Docker, Kubernetes
-
----
-
-### 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section can be automatically updated with your latest Medium posts -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
