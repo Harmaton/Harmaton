@@ -1,6 +1,6 @@
 # Harmaton Njagi
 
-## Data Scientist | AI Engineer | Full Stack Developer
+## Software | Data Engineer 
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/njagiiiiii?logo=twitter&style=for-the-badge)](https://twitter.com/njagiiiiii)
