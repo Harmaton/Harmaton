@@ -1,6 +1,6 @@
 # Harmaton Njagi
 
-## Software | Data Engineer 
+## Software | Data | AI | ML Engineer 
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/njagiiiiii?logo=twitter&style=for-the-badge)](https://twitter.com/njagiiiiii)
