@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate technologist specializing in building innovative solutions at the intersection of Data Science, Artificial Intelligence, and Full Stack Development. My goal is to leverage cutting-edge technologies to solve complex problems and create impactful applications.
+I'm a passionate technologist specializing in building innovative solutions at the intersection of Machine Learning, Artificial Intelligence, and Full Stack Development. My goal is to leverage cutting-edge technologies to solve complex problems and create impactful applications.
 
 
 ---
