@@ -19,7 +19,7 @@ I'm a passionate technologist specializing in building innovative solutions at t
 
 - Twitter: [@njagiiiiii](https://twitter.com/njagiiiiii)
 - Medium: [@njagiiharmaton](https://medium.com/@njagiiharmaton)
-- LinkedIn: [lINK]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/harmaton-njagi-1b2272189/)
+- LinkedIn: [profile](https://www.linkedin.com/in/harmaton-njagi-1b2272189/)
 
 
 
